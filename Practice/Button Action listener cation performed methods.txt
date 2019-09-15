@@ -1,0 +1,3 @@
+Three are two types of method for actionPerformed() in action listener
+1>getActionCommand() retrive label of button
+2>getSource() retrive object of button
